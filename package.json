@@ -1,0 +1,36 @@
+{
+	"name": "word-postfixes",
+	"version": "1.0.0",
+	"description": "This package returns all the postfixes of a given word.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/KhadimHussainDev/word-postfixes.git"
+	},
+	"keywords": [
+		"word",
+		"postfix",
+		"word-postfixes",
+		"string manipulation",
+		"substring",
+		"word processing",
+		"text utility",
+		"string utility",
+		"javascript utility",
+		"word breakdown",
+		"text postfixes",
+		"substring generator",
+		"postfix generator",
+		"text parsing",
+		"npm word utility"
+	],
+	"author": "KhadimHussainDev",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/KhadimHussainDev/word-postfixes/issues"
+	},
+	"homepage": "https://github.com/KhadimHussainDev/word-postfixes#readme"
+}
